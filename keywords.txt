@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RadmonApi	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+postRadmon            	KEYWORD2
+postRadmonCity      	KEYWORD2
+postRadmonLatLong	    KEYWORD2
+postRadmonConvFact	    KEYWORD2
+postRadmonDescription	KEYWORD2
+postRadmonWarning	    KEYWORD2
+postRadmonAlarmEnabled	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
